@@ -1,1 +1,5 @@
-# staminaimage
+# staminaimage![header](https://github.com/myiron100/staminaimage/assets/132120158/be322ad0-635c-4ea9-95b3-8aa397be0092)
+![discord](https://github.com/myiron100/staminaimage/assets/132120158/f925b39a-4bbe-4ba9-9e3e-0437ec476be6)
+![imageStuido](https://github.com/myiron100/staminaimage/assets/132120158/01189647-7c7a-48fa-a9af-51ff7f81979d)
+![image](https://github.com/myiron100/staminaimage/assets/132120158/666d5794-9c20-4f53-815f-cec14b5c2339)
+![body](https://github.com/myiron100/staminaimage/assets/132120158/c24a116c-3e0c-426d-b42e-7b4da5b88618)
