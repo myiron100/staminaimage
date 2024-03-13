@@ -8,3 +8,4 @@
 ![Vidéo sans titre – Réalisée avec Clipchamp (3)](https://github.com/myiron100/staminaimage/assets/132120158/a6b65349-8c61-464d-82f9-bc00aa28d132)
 <img width="428" alt="Capture_decran_le_2024-03-12_a_6 33 36_p m" src="https://github.com/myiron100/staminaimage/assets/132120158/a33fe500-a06d-44c6-a54c-f9cbe959e1cd">
 ![Vidéo sans titre – Réalisée avec Clipchamp (5)](https://github.com/myiron100/staminaimage/assets/132120158/7c97d14d-54d8-4080-a2fb-5268009b3b9e)
+<img width="392" alt="Capture d’écran 2024-03-12 202355" src="https://github.com/myiron100/staminaimage/assets/132120158/c9cc9213-dd53-48e6-81b3-c9072d6d2cdd">
